@@ -8,3 +8,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 Berühmte Zitate
 > es gibt keine
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sonnenuntergang_in_der_Namib.jpg/1920px-Sonnenuntergang_in_der_Namib.jpg"/>
